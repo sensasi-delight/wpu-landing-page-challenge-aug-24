@@ -3,10 +3,10 @@
 > August 2024
 
 ## Submitted Works
-| # |    User   |       Result       | Score (0-100) |
+| # |    Username   |       Result       | Score (0-100) |
 |:-:|:---------:|:--------------------:|:-------------:|
-| 1 | [kimmyxpow](https://github.com/kimmyxpow) | https://wpu.pow.kim/ |               |
-| 2 |           |                      |               |
+| 1 | envilions | https://wpu.pow.kim/ |               |
+| 2 | giridiwaadam15 | https://wpu-landing.vercel.app/ |               |
 | 3 |           |                      |               |
 | 4 |           |                      |               |
 | 5 |           |                      |               |
